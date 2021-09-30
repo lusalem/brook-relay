@@ -25,7 +25,7 @@ blue()
 
 public()
 {
-	brook_download_url='https://hub.fastgit.org/txthinking/brook/releases/download/v20210701/brook_linux_amd64'
+	brook_download_url='https://hub.fastgit.org/txthinking/brook/releases/download/v20210701/brook_linux_arm64'
 	update_source='https://cdn.jsdelivr.net/gh/qinghuas/brook-relay@main/relay.sh'
 }
 
